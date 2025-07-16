@@ -1,1 +1,10 @@
-# dexsz
+[
+  {
+    "username": "",
+    "password": ""
+  },
+  {
+    "username": "dexsz",
+    "password": "dexsz"
+  }
+]
